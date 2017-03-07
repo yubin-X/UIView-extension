@@ -40,7 +40,7 @@ after-height:220.0
 
 通过对View的扩展可以很方便的获取或改变UIView的frame的相关值
 
-> extension:相当于Objective-C中的category
+> extension:类似于Objective-C中的category
 
 
 
