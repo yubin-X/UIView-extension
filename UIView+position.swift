@@ -1,6 +1,5 @@
 //
 //  UIView+position.swift
-//  NIMA
 //
 //  Created by Yubin on 2017/3/7.
 //  Copyright © 2017年 X. All rights reserved.
@@ -37,7 +36,6 @@ extension UIView
         get {
             return self.frame.size.width
         }
-        
         set {
             var frame:CGRect = self.frame
             frame.size.width = newValue
